@@ -1,4 +1,4 @@
-4304
+4305
 108C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\terser\lib\compress\inline.js121436361000000000 0
 116C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\transformer-html\node_modules133135777589553754 1
 133C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@babel\highlight\node_modules\ansi-styles\package.json133135777600178566 0
@@ -24,7 +24,7 @@
 111C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\packager-js\lib\utils.js121436361000000000 0
 113C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\namer-default\package.json133135777608093223 0
 119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\graph\test\AdjacencyList.test.js121436361000000000 0
-76C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\.gitignore133135862388647942 0
+76C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\.gitignore133135868486154953 0
 116C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\runtime-js\src\helpers\worker133135777411438379 1
 103C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\abortcontroller-polyfill133135777601221156 1
 121C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133133340060000000 0
@@ -55,6 +55,18 @@
 103C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\terser\tools\terser.d.ts121436361000000000 0
 69C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\src133135779433030886 1
 116C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@lmdb\lmdb-win32-x64\node.abi102.node121436361000000000 0
+96C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\yaml\types\set.js121436361000000000 0
+90C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\cosmiconfig133135777612211604 1
+115C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\watcher\prebuilds\darwin-x64133135777425103943 1
+126C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@babel\helper-validator-identifier\lib\index.js121012626000000000 0
+108C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\posthtml-render\dist\index.js121436361000000000 0
+91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite133135777601293595 1
+106C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\type-fest\source\entry.d.ts121436361000000000 0
+97C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\lmdb\dict\dict.txt121436361000000000 0
+75C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\readme.md133135869087719307 0
+119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\nav-timing.js121436361000000000 0
+131C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node121436361000000000 0
+87C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\posthtml133135777621666964 1
 110C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\regions\GW.js121436361000000000 0
 145C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133135777460155249 1
 98C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\picocolors\types.ts121436361000000000 0
@@ -191,12 +203,6 @@
 127C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\speech-recognition.js121436361000000000 0
 115C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\transformer-posthtml\LICENSE121436361000000000 0
 91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\browserslist133135777620780936 1
-96C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\yaml\types\set.js121436361000000000 0
-90C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\cosmiconfig133135777612211604 1
-115C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\watcher\prebuilds\darwin-x64133135777425103943 1
-126C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@babel\helper-validator-identifier\lib\index.js121012626000000000 0
-108C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\posthtml-render\dist\index.js121436361000000000 0
-91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite133135777601293595 1
 98C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\lmdb\dist\index.cjs121436361000000000 0
 117C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\htmlnano\lib\modules\sortAttributes.js121436361000000000 0
 91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\yaml\browser133135777411702373 1
@@ -210,9 +216,6 @@
 102C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\css-select\lib\types.js121436361000000000 0
 84C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\clone133135777601252335 1
 117C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\type-fest\source\conditional-pick.d.ts121436361000000000 0
-130C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\css-container-queries.js121436361000000000 0
-106C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\weak-lru-cache\package.json133135777618287848 0
-84C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5133135777626752943 1
 88C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\svgo\dist133135777432460784 1
 113C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\dist\lib\supported.js121436361000000000 0
 97C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\source-map133135777602156945 1
@@ -298,6 +301,9 @@
 136C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-releases\data\release-schedule\release-schedule.json121436361000000000 0
 91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\import-fresh133135777620922746 1
 120C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\will-change.js121436361000000000 0
+130C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\css-container-queries.js121436361000000000 0
+106C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\weak-lru-cache\package.json133135777618287848 0
+84C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5133135777626752943 1
 91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\lightningcss133135777626423200 1
 110C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\regions\MC.js121436361000000000 0
 109C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\svgo\plugins\removeMetadata.js121436361000000000 0
@@ -376,10 +382,6 @@
 111C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\update-browserslist-db\README.md121436361000000000 0
 125C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\css-mediaqueries.js121436361000000000 0
 99C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\postcss-value-parser133135777621978249 1
-106C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\type-fest\source\entry.d.ts121436361000000000 0
-97C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\lmdb\dict\dict.txt121436361000000000 0
-131C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node121436361000000000 0
-87C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\posthtml133135777621666964 1
 95C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\css-tree\LICENSE121436361000000000 0
 119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\transformer-js\native-browser.js121436361000000000 0
 94C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\posthtml-parser133135777622044849 1
@@ -711,10 +713,10 @@
 104C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\weak-lru-cache\index.d.ts121436361000000000 0
 119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\reporter-cli\src\bundleReport.js121436361000000000 0
 123C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h121436361000000000 0
+102C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@jridgewell\gen-mapping133135777601676632 1
 102C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\weak-lru-cache\index.js121436361000000000 0
 119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\matchmedia.js121436361000000000 0
 122C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\vector-effect.js121436361000000000 0
-102C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@jridgewell\gen-mapping133135777601676632 1
 112C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\svgo\plugins\removeHiddenElems.js121436361000000000 0
 96C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\parcel\lib\bin.js121436361000000000 0
 108C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\weak-lru-cache\LRFUExpirer.js121436361000000000 0
@@ -1684,12 +1686,12 @@
 102C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-addon-api\index.js121436361000000000 0
 103C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-addon-api\README.md121436361000000000 0
 104C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-addon-api\LICENSE.md121436361000000000 0
+95C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5\lib\cli.js121436361000000000 0
 135C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@babel\highlight\node_modules\color-convert\package.json133135777600181896 0
 115C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-addon-api\napi-inl.deprecated.h121436361000000000 0
 114C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\utils\src\getModuleParts.js121436361000000000 0
 126C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js121436361000000000 0
 113C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\core\src\CommittedAsset.js121436361000000000 0
-95C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5\lib\cli.js121436361000000000 0
 121C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\inline-block.js121436361000000000 0
 100C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\node-addon-api\napi.h121436361000000000 0
 115C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@swc\helpers\lib\_read_only_error.js133133340060000000 0
@@ -1964,8 +1966,8 @@
 118C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\core\test\InternalAsset.test.js121436361000000000 0
 101C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5\lib\unicode.d.ts121436361000000000 0
 110C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\regions\KR.js121436361000000000 0
-119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\csso\lib\restructure\3-disjoinRuleset.js121436361000000000 0
 130C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js121436361000000000 0
+119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\csso\lib\restructure\3-disjoinRuleset.js121436361000000000 0
 99C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\json5\lib\unicode.js121436361000000000 0
 124C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\css-text-indent.js121436361000000000 0
 91C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\css-what\lib133135777301714116 1
@@ -3190,7 +3192,6 @@
 125C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\mutationobserver.js121436361000000000 0
 142C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json121436361000000000 0
 130C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\native-filesystem-api.js121436361000000000 0
-119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\nav-timing.js121436361000000000 0
 116C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\netinfo.js121436361000000000 0
 119C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\object-fit.js121436361000000000 0
 118C:\Users\araganes\OneDrive - Publicis Groupe\Documents\ignite-app\node_modules\caniuse-lite\data\features\objectrtc.js121436361000000000 0
