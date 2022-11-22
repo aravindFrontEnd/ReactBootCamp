@@ -1,6 +1,7 @@
 node_modules
 .parcel_cache
 dist
+npm-debug-log*
 
 ## Ignore Mac OS Stuff
 .DS_Store
